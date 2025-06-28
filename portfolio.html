@@ -1,5 +1,3 @@
-Claro! Abaixo está um modelo de **portfólio detalhado para quem está buscando o primeiro emprego** e **acabou de concluir um curso de informática básica**. O objetivo desse portfólio é mostrar seu conhecimento, organização e iniciativa, mesmo sem experiência profissional anterior.
----
 ## **Portfólio Profissional – \[Seu Nome Completo]**
 ### 📄 **Apresentação Pessoal**
 > **Nome:** \[Seu nome completo]
