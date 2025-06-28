@@ -1,3 +1,5 @@
+Claro! Abaixo está um modelo de **portfólio detalhado para quem está buscando o primeiro emprego** e **acabou de concluir um curso de informática básica**. O objetivo desse portfólio é mostrar seu conhecimento, organização e iniciativa, mesmo sem experiência profissional anterior.
+---
 ## **Portfólio Profissional – \[Seu Nome Completo]**
 ### 📄 **Apresentação Pessoal**
 > **Nome:** \[Seu nome completo]
@@ -58,5 +60,4 @@ Sou uma pessoa dedicada, em busca da minha primeira oportunidade no mercado de t
 * Se for digital: crie um PDF organizado com todos os itens acima.
 * Se possível, grave um vídeo curto se apresentando ou crie uma pasta no Google Drive com os arquivos.
 ---
-Se quiser, posso montar esse portfólio como um documento em PDF ou Word para você. Deseja isso?# sitesenac
-Meu primeiro site
+Se quiser, posso montar esse portfólio como um documento em PDF ou Word para você. Deseja isso?
