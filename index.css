@@ -1,0 +1,36 @@
+body{
+background: #22C1C3;
+background: linear-gradient(0deg, rgba(34, 193, 195, 1) 30%, rgba(253, 187, 45, 1) 99%);
+
+display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+form{
+  background: #fff;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  padding: 70px;
+  width: 150px;
+  margin-left: 70px;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+form input{
+  border: 1px solid green;
+  padding: 7px;
+  border-radius: 5px;
+  outline: nome;
+}
+
+form input:hover {
+  border: 1px solid rgb(20, 3, 168);
+
+}
+form label {
+  color: rgb(2, 20, 10);
+}
